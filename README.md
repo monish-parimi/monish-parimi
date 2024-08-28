@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning , Deep Learning and Developing Full Stack Applications**
 
-- 💬 Ask me about **Web Development , ML/DL**
+- 💬 Ask me about **Web Development and Machine Learning**
 
 - ⚡ Fun fact **When you think you have time !**
 
@@ -23,10 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+  <a href="https://www.linkedin.com/in/parimi-monish" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 </p>
+
 
 <!---
 monish-parimi/monish-parimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
