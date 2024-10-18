@@ -30,7 +30,7 @@
 
 
 <h2>Achivements</h2>
-<h1>HacktoberFest Holopin Badges</h1>
+<h3>HacktoberFest Holopin Badges</h3>
 
 [![An image of @parimi_monish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parimi_monish)](https://holopin.io/@parimi_monish)
 
