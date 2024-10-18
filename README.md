@@ -29,6 +29,8 @@
 </p>
 
 
+[![An image of @parimi_monish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parimi_monish)](https://holopin.io/@parimi_monish)
+
 <!---
 monish-parimi/monish-parimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
